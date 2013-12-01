@@ -2,4 +2,8 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Lina]
 "Enabled"="1" 
+"Vine_Protocol"="1"
+"External_References"="3"
+"External_Programs"="/Vesta"
+"Kyo"="Y"
 
